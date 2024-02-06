@@ -1,5 +1,5 @@
 {
-  "name": "obs",
+  "name": "obs_helper",
   "version": "0.1.0",
   "private": true,
   "scripts": {

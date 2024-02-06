@@ -1,4 +1,4 @@
-# obs
+# obs_helper
 
 ## Project setup
 ```
